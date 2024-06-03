@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eranga Jayasooriya</h1>
-<h3 align="center">An effective person who thrives in collaborative environments,eager to support team goals and organizational objectives. I am poised to take in itiative and ensure tasks are completed efficiently and on time.</h3>
+<h1 align="left">Hi 👋, I'm Eranga Jayasooriya</h1>
+<h3 align="left">An effective person who thrives in collaborative environments,eager to support team goals and organizational objectives. I am poised to take in itiative and ensure tasks are completed efficiently and on time.</h3>
 
 
 - 🌱 I’m currently a **Undergraduate Software Engineer**
