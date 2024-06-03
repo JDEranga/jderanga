@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eranga Jayasooriya</h1>
 <h3 align="center">An effective person who thrives in collaborative environments,eager to support team goals and organizational objectives. I am poised to take in itiative and ensure tasks are completed efficiently and on time.</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
+
 
 - 🌱 I’m currently a **Undergraduate Software Engineer**
 
