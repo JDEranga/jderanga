@@ -5,7 +5,7 @@
 - 🌱 I’m currently a **Undergraduate Software Engineer**
 
 - 📫 How to reach me **jaderanga@gmail.com**
-- 🌐 Website [https://jderanga.github.io/Eranga-Jayasooriya/](https://jderanga.github.io/Eranga-Jayasooriya/)
+- 🌐 Website [https://jderanga.github.io/Eranga-Jayasooriya/](https://eranga-jayasooriya.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
